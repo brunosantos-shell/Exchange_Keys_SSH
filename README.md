@@ -1,8 +1,9 @@
 # Exchange_Keys_SSH
-Exchange Keys SSH Centos|Debian|Ubuntu
+Exchange Keys SSH on S.O Centos|Debian|Ubuntu
 
 Prerequisites
-Server SSH
+- Server SSH
+- BASH
 
 Execute Script 
 sh ek.sh
