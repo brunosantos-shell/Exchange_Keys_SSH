@@ -7,3 +7,5 @@ Prerequisites
 
 Execute Script 
 sh ek.sh
+
+Questions orImprovements, send email to brunosantostecinf@gmail.com
